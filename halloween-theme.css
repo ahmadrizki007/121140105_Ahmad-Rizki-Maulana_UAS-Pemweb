@@ -1,0 +1,31 @@
+/* Halloween Styles */
+body {
+    background-color: #1E1E1E;
+    font-family: 'Merriweather', serif;
+    color: #FF6600;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+.header img {
+    width: 60px;
+    height: 60px;
+}
+
+.halloween-decoration {
+    width: 150px;
+    height: auto;
+    margin: 10px;
+}
+
+.halloween-text {
+    font-size: 24px;
+    color: #FF6600;
+    font-family: 'Chiller', cursive;
+}
+
+/* Rest of your existing CSS for the Halloween theme */
+/* ... */
